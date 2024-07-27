@@ -1,0 +1,2 @@
+# bootstrap
+about CSS shortcut
